@@ -1,0 +1,12 @@
+.terraform
+.tmp/
+*.tar.gz
+.env
+.vscode/
+.terraform/
+# Ignore all TF state files
+terraform.tfstate
+terraform.tfstate.backup
+command.txt
+.terraform.lock.hcl
+mykey
